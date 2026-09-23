@@ -1,6 +1,7 @@
 # Folder Structure Generator
 
 Link: https://proparitosh.github.io/Folder-Structure-Generator-for-Projects/
+
 A simple client-side folder structure generator. Choose a preset, customize the hierarchy, and download it as a ZIP.
 
 ## Features
